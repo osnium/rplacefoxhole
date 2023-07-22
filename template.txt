@@ -40,6 +40,14 @@
          ],
          "x":955,
          "y":974
+      },
+      {
+         "name":"Dead Harvest",
+         "sources":[
+            "https://cdn.discordapp.com/attachments/958307077934161920/1132452976372494486/Make_Foxhole_Soopy_Again.png"
+         ],
+         "x":704,
+         "y":343
       }
    ],
    "whitelist":[
