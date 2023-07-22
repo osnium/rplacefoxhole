@@ -6,7 +6,7 @@
          "sources":[
             "https://cdn.discordapp.com/attachments/958309376404357132/1132103556116250704/foxhole_noriver_1to1.png"
          ],
-         "x":858,
+         "x":860,
          "y":474
       },
       {
