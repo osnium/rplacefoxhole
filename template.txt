@@ -14,7 +14,7 @@
          "sources":[
             "https://media.discordapp.net/attachments/958654685634523197/1131984416042917898/TemplinTemplate1.png"
          ],
-         "x":423,
+         "x":923,
          "y":474
       },
       {
@@ -22,7 +22,7 @@
          "sources":[
             "https://cdn.discordapp.com/attachments/958307077934161920/1132055172886044832/GTUTemplate.png"
          ],
-         "x":439,
+         "x":939,
          "y":474
       }
    ],
