@@ -1,42 +1,24 @@
 {
-   "contact":"Gamechfo on discord",
-   "templates":[
-      {
-         "name":"Foxhole r/place main art + Hurdy gurdy",
-         "sources":[
-            "https://cdn.discordapp.com/attachments/958307077934161920/1132070207310004355/GURDYNEW_MAPART.png"
-         ],
-         "x":358,
-         "y":474
-      },
-      {
-         "name":"Templin Institute",
-         "sources":[
-            "https://media.discordapp.net/attachments/958654685634523197/1131984416042917898/TemplinTemplate1.png"
-         ],
-         "x":423,
-         "y":474
-      },
-      {
-         "name":"Templin Institute art 2",
-         "sources":[
-            "https://cdn.discordapp.com/attachments/958307077934161920/1132055172886044832/GTUTemplate.png"
-         ],
-         "x":439,
-         "y":474
-      }
-   ],
-   "whitelist":[
-      {
-         "name":"r/osuplace",
-         "url":"https://osu.place/e/osuplace2023.json"
-      },
-      {
-         "name":"P3ACE Alliance",
-         "url":"https://charity.pxls.space/p3ace"
-      }
-   ],
-   "blacklist":[
-      
-   ]
+  "contact": "@thefoxdrummer",
+  "templates": [
+    {
+      "name": "r/Babymetal",
+      "sources": [
+        "https://i.imgur.com/FBsA6Cy.png"
+      ],
+      "x": 359,
+      "y": 562
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "r/Foxhole",
+      "url": "https://pastebin.com/raw/T9QSDVLu"
+    },
+    {
+      "name": "r/Senko",
+      "url": "http://ub8qbd.satdump.org/umasenko.json"
+    }
+  ],
+  "blacklist": []
 }
