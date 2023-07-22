@@ -32,6 +32,14 @@
          ],
          "x":939,
          "y":474
+      },
+      {
+         "name":"Templin Institute art 3",
+         "sources":[
+            "https://cdn.discordapp.com/attachments/958307077934161920/1132426758969380864/antares.png"
+         ],
+         "x":955,
+         "y":474
       }
    ],
    "whitelist":[
