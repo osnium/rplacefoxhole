@@ -4,7 +4,7 @@
       {
          "name":"Foxhole r/place main art + Hurdy gurdy",
          "sources":[
-            "https://cdn.discordapp.com/attachments/958309376404357132/1132100350044799067/foxhole_river_1to1.png"
+            "https://cdn.discordapp.com/attachments/958309376404357132/1132103556116250704/foxhole_noriver_1to1.png"
          ],
          "x":858,
          "y":474
