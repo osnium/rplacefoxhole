@@ -7,7 +7,7 @@
             "https://cdn.discordapp.com/attachments/958307077934161920/1132422447291961374/Foxface1x1.png"
          ],
          "x":878,
-         "y":557
+         "y":1057
       },
 	  {
          "name":"Foxhole r/place main art + Hurdy gurdy",
@@ -15,7 +15,7 @@
             "https://cdn.discordapp.com/attachments/958309376404357132/1132103556116250704/foxhole_noriver_1to1.png"
          ],
          "x":858,
-         "y":474
+         "y":974
       },
       {
          "name":"Templin Institute",
@@ -23,7 +23,7 @@
             "https://media.discordapp.net/attachments/958654685634523197/1131984416042917898/TemplinTemplate1.png"
          ],
          "x":923,
-         "y":474
+         "y":974
       },
       {
          "name":"Templin Institute art 2",
@@ -31,7 +31,7 @@
             "https://cdn.discordapp.com/attachments/958307077934161920/1132055172886044832/GTUTemplate.png"
          ],
          "x":939,
-         "y":474
+         "y":974
       },
       {
          "name":"Templin Institute art 3",
@@ -39,7 +39,7 @@
             "https://cdn.discordapp.com/attachments/958307077934161920/1132426758969380864/antares.png"
          ],
          "x":955,
-         "y":474
+         "y":974
       }
    ],
    "whitelist":[
