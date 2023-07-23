@@ -61,6 +61,9 @@
       }
    ],
    "blacklist":[
-      
+      {
+       "name": "/Ltu_Republic",
+       "url": "https://rentry.co/knyff/raw"
+      }
    ]
 }
