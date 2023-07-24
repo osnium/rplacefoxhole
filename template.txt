@@ -6,7 +6,7 @@
          "sources":[
             "https://cdn.discordapp.com/attachments/958307077934161920/1132422447291961374/Foxface1x1.png"
          ],
-         "x":878,
+         "x":1378,
          "y":1057
       },
 	  {
@@ -14,7 +14,7 @@
          "sources":[
             "https://cdn.discordapp.com/attachments/958309376404357132/1132103556116250704/foxhole_noriver_1to1.png"
          ],
-         "x":858,
+         "x":1358,
          "y":974
       },
       {
@@ -22,7 +22,7 @@
          "sources":[
             "https://media.discordapp.net/attachments/958654685634523197/1131984416042917898/TemplinTemplate1.png"
          ],
-         "x":923,
+         "x":1423,
          "y":974
       },
       {
@@ -30,7 +30,7 @@
          "sources":[
             "https://cdn.discordapp.com/attachments/958307077934161920/1132055172886044832/GTUTemplate.png"
          ],
-         "x":939,
+         "x":1439,
          "y":974
       },
       {
@@ -38,7 +38,7 @@
          "sources":[
             "https://cdn.discordapp.com/attachments/958307077934161920/1132426758969380864/antares.png"
          ],
-         "x":955,
+         "x":1455,
          "y":974
       },
       {
@@ -46,7 +46,7 @@
          "sources":[
             "https://cdn.discordapp.com/attachments/958307077934161920/1132680085401513994/image1.png"
          ],
-         "x":873,
+         "x":1373,
          "y":88
       }
    ],
