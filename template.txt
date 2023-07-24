@@ -40,14 +40,6 @@
          ],
          "x":1455,
          "y":974
-      },
-      {
-         "name":"Dead Harvest",
-         "sources":[
-            "https://cdn.discordapp.com/attachments/958307077934161920/1132680085401513994/image1.png"
-         ],
-         "x":1373,
-         "y":88
       }
    ],
    "whitelist":[
